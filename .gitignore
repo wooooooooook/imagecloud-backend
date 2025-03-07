@@ -1,0 +1,15 @@
+.idea/
+.vscode/
+.venv*/
+venv*/
+__pycache__/
+dist/
+.coverage*
+htmlcov/
+.tox/
+docs/_build/
+
+.DS_Store
+._.DS_Store
+**/.DS_Store
+**/._.DS_Store
